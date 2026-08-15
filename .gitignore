@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary media
+downloads/
+tmp/
+temp/
+
+# OS / Editor
+.DS_Store
+.vscode/
